@@ -10,7 +10,7 @@
 ✉ **Почта:** [malysheva.ac@gmail.com](mailto:malysheva.ac@gmail.com)  
 💬 **Telegram:** [@malyshevaao](https://t.me/malyshevaao) 
 
-## 🛠️ **Мой стек**  
+## 🛠️ Мой стек:
 
 ### Языки и инструменты:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
