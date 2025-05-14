@@ -7,7 +7,7 @@
 🔹 **Изучаю:** ML-инженерию и методы обработки данных   
 
 ## 📫 Связь:
-✉ **Почта:** [malysheva.ac@gmail.com](mailto:malysheva.ac@gmail.com)  
+✉ **Почта:** [malysheva.ac@gmail.com](mailto:malysheva.ao@gmail.com)  
 💬 **Telegram:** [@malyshevaao](https://t.me/malyshevaao) 
 
 ## 🛠️ Мой стек:
