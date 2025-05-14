@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, меня зовут Анастасия! 👋
 
-<!--
-**MalyshevaAO/MalyshevaAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Обо мне:**  
+Я студентка 3-го курса **МИФИ** по направлению `15.03.04 Автоматизация технологических процессов и производств`, увлеченная **ML-инженерией**. Сейчас прохожу практику на позиции **тестировщика**. Моя цель — работать **ML-инженером**, и я активно двигаюсь к этому.  
 
-Here are some ideas to get you started:
+🔭 **Сейчас работаю над:** углублением знаний в машинном обучении
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Изучаю:** ML-инженерию и методы обработки данных   
+
+📫 **Связь:** malysheva.ao@gmail.com - почта, @malyshevaao - ТГ
+
+## 🛠️ **Мой стек**  
+
+### Языки и инструменты:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Библиотеки Python:  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+⭐ **Спасибо, что заглянули!**  
